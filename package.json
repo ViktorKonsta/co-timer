@@ -1,6 +1,6 @@
 {
   "name": "xtimer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Lightweight solution for timers with timeouts and intervals",
   "main": "index.js",
   "scripts": {
