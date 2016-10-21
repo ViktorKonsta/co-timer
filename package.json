@@ -1,10 +1,10 @@
 {
   "name": "xtimer",
   "version": "0.0.0",
-  "description": "Lightweight solution for generator based timers with timeouts and intervals",
+  "description": "Lightweight solution for timers with timeouts and intervals",
   "main": "index.js",
   "scripts": {
-    "test": "mocha spec --opts mocha.opts"
+    "test": "clear && mocha spec --opts mocha.opts"
   },
   "repository": {
     "type": "git",
@@ -29,6 +29,8 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.1.2",
+    "mocha-clean": "^1.0.0",
     "sinon": "^1.17.6"
-  }
+  },
+  "dependencies": {}
 }
