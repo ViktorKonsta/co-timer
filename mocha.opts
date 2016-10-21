@@ -1,0 +1,4 @@
+--inline-diffs
+--ui exports
+--no-timeouts
+--slow 2000
